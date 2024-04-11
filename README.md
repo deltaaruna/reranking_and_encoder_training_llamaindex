@@ -1,1 +1,1 @@
-# reranking_and_encoder_training_llamaindex
+# Training encoders with your own data and use them for embedding and reranking 
